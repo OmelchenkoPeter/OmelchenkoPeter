@@ -1,6 +1,6 @@
 ### Hi there 👋
 # I'm Python Developer
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Python with Mark Lutz
 
 
 <!--
