@@ -1,4 +1,4 @@
-### Hi there, I'm Peter Omelchenko [![Telegram Badge](https://img.shields.io/badge/-blue?style=social&logo=telegram&link=https://t.me/PeterOmelchenko)](https://t.me/PeterOmelchenko) <p align='left'>
+### Hi there, I'm Peter Omelchenko [![Telegram Badge](https://img.shields.io/badge/-blue?style=social&logo=telegram&link=https://t.me/PeterOmelchenko)](https://t.me/PeterOmelchenko)<p align='left'>
 
 
 - I'm Python Developer
