@@ -1,4 +1,7 @@
 ### Hi there 👋
+# I'm Python Developer
+- 🌱 I’m currently learning ...
+
 
 <!--
 **OmelchenkoPeter/OmelchenkoPeter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
