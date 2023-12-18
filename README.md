@@ -1,6 +1,6 @@
-### Hi there 👋
-# I'm Python Developer
-- 🌱 I’m currently learning Python with Mark Lutz
+### Hi there, I'm Peter Omelchenko
+- I'm Python Developer
+- I’m currently learning Python with Mark Lutz
 
 
 <!--
