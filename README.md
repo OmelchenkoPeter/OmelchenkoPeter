@@ -4,7 +4,7 @@
 - I'm Python Developer
 - I'm diving deeper into Python every day.
 
-
+https://t.me/PeterOmelchenko
 <!--
 **OmelchenkoPeter/OmelchenkoPeter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
