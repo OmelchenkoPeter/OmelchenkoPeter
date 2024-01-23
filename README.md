@@ -2,7 +2,7 @@
 
 
 - I'm Python Developer
-- I’m currently learning Python with Mark Lutz
+- I'm diving deeper into Python every day.
 
 
 <!--
